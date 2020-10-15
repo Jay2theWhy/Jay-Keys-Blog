@@ -9,12 +9,12 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #550b0b;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
   --secondary-color: #10072b;
-  --background: #fff;
+  --background: #1a2135;
   --site-header: var(--background);
   --card-bg: #fff;
   --card-bdr: #eee;
@@ -27,6 +27,7 @@ body.light {
   --contact-bg: #f7f8fe;
   --contact-bdr: #d3d6e7;
   --input-bg: var(--background);
+  --hero-header: #fff;
 }
 body.dark {
   --primary-color: #9984d5;
@@ -107,6 +108,7 @@ a {
   text-transform: uppercase;
 }
 .hero-header {
+  color: var(--hero-header);
   padding: 0 0 64px;
   max-width: 980px;
 }
