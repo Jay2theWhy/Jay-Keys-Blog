@@ -1,9 +1,9 @@
 {
   "title": "JayKeys",
   "siteUrl": "https://www.jaykeysblog.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "description": "Mechanical Keyboard Blog",
   "home": {
-    "title": "Hey! Welcome to JayKeys",
+    "title": "Welcome to JayKeys",
     "description": "This is my blog where I'll be talking about mechkeebs and documenting my builds. Maybe I'll even get to other nerdy stuff too, stick around to find out!"
   }
 }
